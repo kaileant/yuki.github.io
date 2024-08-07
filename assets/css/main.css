@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #222020;
 		}
 
 			.spotlights > section > .image {
@@ -3410,7 +3410,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #e1f8ff49;
+			background-color: #e1f8ff00;
 			content: '';
 			display: block;
 			height: 100%;
