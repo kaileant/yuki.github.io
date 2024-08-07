@@ -3410,7 +3410,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #43c2e980;
+			background-color: #e1f8ff49;
 			content: '';
 			display: block;
 			height: 100%;
